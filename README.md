@@ -1,9 +1,10 @@
-EIPS (Enhanced IP Spoofing) Protocol: Detailed Overview
+## EIPS (Enhanced IP Spoofing) Protocol: Detailed Overview
 
 EIPS, which stands for Enhanced IP Spoofing, is a sophisticated and versatile protocol designed to mask or manipulate the real IP address of a user or device during communication over the internet. Unlike basic IP spoofing methods, EIPS provides users with a wide range of capabilities, making it a powerful tool for both legitimate and malicious activities. The protocol allows users to control various aspects of their internet traffic, including headers, IP addresses, and routing, to either anonymize their actions or bypass security measures in place on servers and services.
 
 Below is an in-depth analysis of what EIPS is, how it works, its uses, and its impact on internet security:
 
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
 
 ---
 
